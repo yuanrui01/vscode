@@ -138,9 +138,8 @@ If you see a message that the command is not found or not recognized, review
 the installation instructions. If you still can't get it to work, check
 [StackOverflow](http://stackoverflow.com/search?q=installing+java).
 
-## Installing and Running the Book Examples
+## Installing and Running the Book Examples dsijsdksa
 
-Once you have Java installed, the process to install and run the book examples
 is the same for all platforms:
 
 1. Download the book examples from the
@@ -174,6 +173,8 @@ If you have, you can go directly to the
 [installation instructions](#building-from-the-command-line-detailed-instructions).
 
 ## Editors
+
+## jdsajdksaj
 
 To create and modify Java program files&mdash;the code listings shown in this
 book&mdash;you need a program called an *editor*. You'll also need the editor to
